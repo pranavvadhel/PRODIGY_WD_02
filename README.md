@@ -50,4 +50,4 @@ start stopwatch.html
 
 ## 🤝 Contributions
 
-Feel free to fork, open issues, or submit pull requests. Any improvement is appreciated.![image](https://github.com/user-attachments/assets/df6463f6-2029-4f49-9b05-9066c3b96a11)
+Feel free to fork, open issues, or submit pull requests. Any improvement is appreciated.
